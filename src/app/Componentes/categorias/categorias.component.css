@@ -1,0 +1,14 @@
+table {
+    
+    width: 100%;
+  }
+  .table-margin{
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 15px;
+  }
+  .BtnAgregar{
+    margin-top: 5px;
+    margin-left: 20px;
+    
+  }
